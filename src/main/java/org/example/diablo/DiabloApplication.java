@@ -10,5 +10,4 @@ public class DiabloApplication {
         SpringApplication.run(DiabloApplication.class, args);
     }
 
-
 }
